@@ -1,53 +1,52 @@
-# No Code
+# 無碼
+《無碼》是個能寫出安全且可靠應用程式的最佳途徑。啥也不寫；無處佈署。
 
-No code is the best way to write secure and reliable applications. Write nothing; deploy nowhere.
+## 開始
 
-## Getting Started
-
-Start by not writing any code.
-
-```
-
-```
-
-This is just an example application, but imagine it doing anything you want. Adding new features is easy too:
+以不寫任何程式碼作為開端。
 
 ```
 
 ```
 
-The possibilities are endless.
-
-### Building the Application
-
-Now that you have not done anything it's time to build your application:
+這只是個範例應用程式，但想像這東西能做出你想做的任何事情。加入新功能亦十分簡單：
 
 ```
 
 ```
 
-Yep. That's it. You should see the following output:
+可能性無窮啊。
+
+### 編譯應用程式
+
+現在你沒做好事情了，來編譯你的應用程式吧：
 
 ```
 
 ```
 
-### Deploying
-
-While you still have not done anything it's time to deploy your application. By running the following command you can deploy your application absolutely nowhere.
+嗯哼，就這樣。你能看到下述輸出：
 
 ```
 
 ```
 
-It's that simple. And when it comes time to scale the application, all you have to do is:
+### 佈署
+
+在你還沒做好事情之後，該來佈署你的應用程式了。請執行以下指令即可佈署你的應用程式至絕對沒有地方。
 
 ```
 
 ```
 
-I know right?
+就這麼簡單，而要擴展應用程式時，只要：
 
-## Contributing
+```
 
-You don't.
+```
+
+對吧？
+
+## 貢獻
+
+滾。
